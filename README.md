@@ -1,2 +1,0 @@
-# Educare
-DBIT hackathon project
